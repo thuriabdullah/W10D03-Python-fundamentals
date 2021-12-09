@@ -13,7 +13,7 @@ for x in range(2, numuser):
 if p==0:
     print(" Prime Number")
 else:
-    print("\not a Prime Number")
+    print("\n not  a Prime Number")
 
 
 
